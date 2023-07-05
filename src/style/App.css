@@ -8,6 +8,10 @@
   align-items: center;
 }
 
+.background-blue {
+  background-color: blue;
+}
+
 .App > * {
   margin: 3px 0;
 }
